@@ -23,7 +23,7 @@
     "@iconify-json/simple-icons": "^1.2.18",
     "@playform/compress": "^0.1.1",
     "@tailwindcss/typography": "^0.5.13",
-    "astro": "^5.10.1",
+    "astro": "^7.1.0",
     "astro-icon": "^1.1.1",
     "framer-motion": "^8.0.0",
     "gsap": "^3.12.5",
